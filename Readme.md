@@ -1,4 +1,26 @@
+<div align="center">
+    <code><img src="https://profile-counter.glitch.me/xchsdo/count.svg"></code>
+    </br></br>
+    <code><a href="https://www.iiylw.com"><img src="https://img.shields.io/badge/blog-iiylw.com-success?style=flat&logo=Google Maps" /></a></code>
+    <code><img src="https://img.shields.io/badge/Wechat-iiylwcom-brightgreen?style=flat&logo=wechat"></code>
+    <code><img src="https://img.shields.io/badge/QQ-81409551-blue?style=flat&logo=tencentqq"></code>
+    </br></br>
+    <code><img src="https://img.shields.io/badge/E.mail-admin@iiylw.com-ff69b4?style=flat&logo=Mail.Ru"></code></br></br>
+    <code><a href="https://gitee.com/xchsdo"><img src="https://img.shields.io/badge/Gitee-xchsdo-orange?style=flat&logo=gitee" /></a></code>
+    <code><a href="https://github.com/xchsdo"><img src="https://img.shields.io/badge/Github-xchsdo-red?style=flat&logo=github" /></a></code>
+    <code><a href="https://gitlab.com/xchsdo"><img src="https://img.shields.io/badge/Gitlab-xchsdo-orange?style=flat&logo=gitlab" /></a></code>
+    </br></br>
+    <code><a href="https://github.com/xchsdo/phpStudy"><img src="https://img.shields.io/github/stars/xchsdo"></a></code>
+    <code><a href="https://github.com/xchsdo/phpStudy"><img src="https://img.shields.io/github/followers/xchsdo"></a></code>
+    <code><a href="https://github.com/xchsdo/phpStudy"><img src="https://img.shields.io/github/issues/xchsdo/phpStudy"></a></code>
+    <code><a href="https://github.com/xchsdo/phpStudy"><img src="https://visitor-badge.glitch.me/badge?page_id=xchsdo.phpStudy"></a></code>
+    <code><a href="https://github.com/xchsdo/phpStudy"><img src="https://img.shields.io/github/forks/xchsdo/phpStudy"></a></code>
+    </br></br>
+    <code><a href="https://github.com/xchsdo/phpStudy/blob/master/LICENSE"><img src="https://img.shields.io/github/license/xchsdo/phpStudy"></a></code>
+</div>
+
 ## phpStudy
+
 phpStudy 是一个PHP开发环境集成包, 可用在本地电脑或者服务器上, 该程序包集成最新的 `PHP / MySql / Apache / Nginx / Redis / FTP / Composer`, 一次性安装, 无须配置即可使用, 非常方便、好用!
 
 phpstudy 2019年新推出的V8版本全新界面, 支持最新 `php、mysql` 版本, 在不同站点可以多PHP版本共存互不影响!
@@ -134,3 +156,6 @@ phpstudy 2019年新推出的V8版本全新界面, 支持最新 `php、mysql` 版
       * LTS 支持 PHP 5.2-5.4
       * 4.0.10.20: <https://files.phpmyadmin.net/phpMyAdmin/4.0.10.20/phpMyAdmin-4.0.10.20-all-languages.zip>
 * 说明: 直接放网站目录即可使用
+
+#### 许可说明
+This repo is released under the [WTFPL](./LICENSE) – Do What the Fuck You Want to Public License.
